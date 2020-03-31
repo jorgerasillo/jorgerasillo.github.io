@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/jorgerasillo/jorgerasillo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+jorge dot rasillo at gmail dot com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Github
 
-### Markdown
+Personal project to build E2E blood pressure application. The start of the [backend.](https://github.com/jorgerasillo/anubis)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Employment history
 
-```markdown
-Syntax highlighted code block
+1) Currently having fun at Syniti.com, doing my best at leadership things and delivering product in the Data Governance space.
+1) Previously employed by Lenovo, where I worked in the systems management area.
+1) IBM was where it all started, while I was there worked in the tools area (before Devops became a thing), worked on fun Proof of concept projects and ultimately landed in system management where the group was sold to Lenovo.
 
-# Header 1
-## Header 2
-### Header 3
+### Interests
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jorgerasillo/jorgerasillo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Technology in general, more specifically lately:
+  - Leadership
+  - Cloud
+  - Devops and infrastructure
+- Outside things 
+- Running mostly long distances
+- Reading
+- Solving the [Rubik Cube](https://www.youtube.com/watch?v=1t1OL2zN0LQ&t=1s) by brute force only :).
